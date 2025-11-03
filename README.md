@@ -22,7 +22,7 @@ A real-time object detection system using YOLOv8 for webcam feed analysis. This 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/yolo-object-detection.git
+git clone https://github.com/sreeyukta-m/yolo-object-detection.git
 cd yolo-object-detection
 ```
 
@@ -63,6 +63,7 @@ python main.py
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+ sreeyukta-m - 23btrad010@jainuniversity.ac.in
 
-Project Link: [https://github.com/YOUR_USERNAME/yolo-object-detection](https://github.com/YOUR_USERNAME/yolo-object-detection)
+
+Project Link: [https://github.com/sreeyukta/yolo-object-detection](https://github.com/YOUR_USERNAME/yolo-object-detection)
